@@ -1,0 +1,8 @@
+﻿  Game.cpp
+D:\Dev\SimpleGame - Textures\SimpleGame\Src\Game.cpp(89,21): warning C4101: 'key': unreferenced local variable
+  GameObject.cpp
+  TextureManager.cpp
+  main.cpp
+  map.cpp
+  Generating Code...
+  SimpleGame.vcxproj -> D:\Dev\SimpleGame - Textures\bin\Win32\Debug\SimpleGame.exe
